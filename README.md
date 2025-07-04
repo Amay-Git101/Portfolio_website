@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website — built using HTML, CSS, and JavaScript.
 
-🔗 **Live Demo**: [Click here to view](https://your-username.github.io/your-repo-name/)
+🔗 **Live Demo**: [Click here to view](https://portfolio-website-phi-rust.vercel.app/)
 
 ---
 
